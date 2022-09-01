@@ -1,6 +1,7 @@
 import web3 from "../web3";
 
-const address = '0x8A384f6018580775904A34421fbcAD74C0B2F804';
+//Add Use wallet address here
+const address = '';
 const abi = [{
   "constant": true,
   "inputs": [],
